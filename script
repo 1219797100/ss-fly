@@ -1,0 +1,6 @@
+yum -y install git£¨Centos£©
+git clone https://github.com/1219797100/ss-fly
+cd ss-fly
+chmod u+x *.sh
+cd ..
+ss-fly/ss-fly.sh -i 1219797100 1024
